@@ -71,7 +71,7 @@ body {
      top:0;
      z-index:-1;
      left:0;
-     background-color:rgba(20,54,108,0.9);
+     background-color:#f9fbff;
 }
 .col-content-center{
      display:flex;
